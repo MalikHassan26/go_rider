@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "6717970420",
+    "project_id": "gorider-e8d0a",
+    "storage_bucket": "gorider-e8d0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6717970420:android:5f04f889bd58b12d5a0ba1",
+        "android_client_info": {
+          "package_name": "com.gorider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6717970420-j01kun1frrfqc93visrghn97o9jki2jf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUbNRITy9MuTVHVD7plsMvy7D_y_gV06I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6717970420-j01kun1frrfqc93visrghn97o9jki2jf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
