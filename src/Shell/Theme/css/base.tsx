@@ -65,6 +65,7 @@ export const VIDEO_ICON= require('../../../../assets/videoicon.png');
 export const USER_ADD= require('../../../../assets/user-plus.png');
 export const COMPONENT_ICON= require('../../../../assets/Component.png');
 export const USER_ADD_NEW= require('../../../../assets/user-plus-new.png');
+export const logo_bird= require('../../../../assets/logo-bird.png');
 
 export const BACKGROUND= require('../../../../assets/background.png');
 
